@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CleanCommunity</string>
+    <string name="Signin">sign in</string>
+    <string name="Recycling">Recycling</string>
+    <string name="CommunityGarden">Community Garden</string>
+    <string name="TrashPickUp">Trash Pick Up</string>
+    <string name="CleanCommunity">Clean Community</string>
+</resources>
